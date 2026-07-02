@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Nasr 👋
 
-<!--
-**nasrkkll825-cmd/nasrkkll825-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+English Language graduate building NLP resources for the Iraqi Arabic dialect, with a strong interest in Computational Linguistics and Artificial Intelligence.
 
-Here are some ideas to get you started:
+🔭 Current Projects
+- Iraqi Arabic Sentiment Analysis System
+- Iraqi Arabic Dialect Dictionary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Contributor
+- Iraqi Arabic NLP Toolkit (IANLP)
+
+🌱 Currently Learning
+- Python
+- NLTK
+- pandas
+- Git & GitHub
+- Linux
+- Machine Learning
